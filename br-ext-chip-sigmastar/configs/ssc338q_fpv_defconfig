@@ -86,3 +86,6 @@ BR2_PACKAGE_SOCAT=y
 
 # MAVLink
 BR2_PACKAGE_MAVLINK_ROUTER=y
+
+# Video capture/restream (for optical pod via Ethernet)
+BR2_PACKAGE_FFMPEG_OPENIPC=y
